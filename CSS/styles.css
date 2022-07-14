@@ -47,6 +47,7 @@ body {
 }
 .avatar {
   margin: 30px;
+  width: 25%;
 }
 .intro-text {
   margin-bottom: 50px;
