@@ -48,6 +48,7 @@ body {
 .avatar {
   margin: 30px;
   width: 10%;
+  height: auto;
 }
 .intro-text {
   margin-bottom: 50px;
